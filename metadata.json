@@ -1,0 +1,5 @@
+{
+  "name": "BrainSync",
+  "description": "A comprehensive React PWA for BTech CSE students featuring notes, assignments, PYQs, and video lectures with a dark, modern mobile-first UI.",
+  "requestFramePermissions": []
+}
